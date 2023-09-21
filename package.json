@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "serverless-layers": "^2.6.1",
+    "serverless-python-requirements": "^6.0.0"
+  }
+}

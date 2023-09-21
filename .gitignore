@@ -1,0 +1,8 @@
+
+env/
+.node_modules
+
+# Serverless directories
+.serverless
+*.pyc
+*.pyo
